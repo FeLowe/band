@@ -1,12 +1,19 @@
 .pic {
-  float: right;
+  margin: 3px;
 }
 .shows {
-  float: left;
-  width: 40%;
+  width: 30%;
   background-color: red;
+  border: 3px solid blue;
+  padding: 10px;
+  margin: 3px;
+
 }
 .paragraph {
-  width: 300px;
+  float: right;
+  width: 70%;
+}
+.column {
   float: left;
+  width: 50%;
 }
